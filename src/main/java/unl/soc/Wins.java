@@ -3,8 +3,9 @@ package unl.soc;
 import java.util.List;
 
 /**
- * TODO: author, date and class documentation
- * 
+ * Author: Matthew Landers
+ *
+ * Date: 2024-02-10 
  */	
 
 public class Wins {

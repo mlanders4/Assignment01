@@ -7,7 +7,7 @@ import java.util.List;
  * 
  */	
 
-public class ExpectedWinsCalculator {
+public class Wins {
     public static void main(String[] args) {
         // Check if the correct number of command line arguments is provided
         if (args.length != 2) {
